@@ -1,0 +1,46 @@
+{
+  "name": "9anmie",
+  "short_name": "9anmie",
+  "start_url": "https://9anmie.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#6b6b6b",
+  "theme_color": "#f50000",
+  "description": "9anime موقع ويب مجاني لبث الأنمي يسمح للمستخدمين بمشاهدة الأنمي باللغة الإنجليزية والمدبلجة عبر الإنترنت. نحن نقدم لك ميزات الجودة عالية الدقة وتجربة البث السلسة، وخاصة عدم وجود إعلانات. أمانك يهمنا كثيرًا؛ ولذلك، فإن تجربة المستخدم الآمنة والممتعة للمستخدمين هي ما نهدف إليه. نحن نتخلى عن الإعلانات والنوافذ المنبثقة في محاولة لحمايتك من الفيروسات والبرامج الضارة. أنت تستحق أن تستمتع بالأنمي المفضل لديك دون قلق، وهذا ما يمكننا مساعدتك به",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1AxNCe_-hvmp8SohndLNArWXYPB70QEhEvwhkssirjeqvdB6-B9CMZ5ueEDRJ_gs3g5qQMDccHOe-8d6ImdF6LppV_-c987i-95HIpmPQIObhZ9bePU5UJ_q1VXf2zVQLV9D2lK4amTRkOcBJhkiwUO0lpozamLL-7UTdmNleOtwqov4ZTQVzpZ02KyE/s48/9anmie.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1AxNCe_-hvmp8SohndLNArWXYPB70QEhEvwhkssirjeqvdB6-B9CMZ5ueEDRJ_gs3g5qQMDccHOe-8d6ImdF6LppV_-c987i-95HIpmPQIObhZ9bePU5UJ_q1VXf2zVQLV9D2lK4amTRkOcBJhkiwUO0lpozamLL-7UTdmNleOtwqov4ZTQVzpZ02KyE/s72/9anmie.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1AxNCe_-hvmp8SohndLNArWXYPB70QEhEvwhkssirjeqvdB6-B9CMZ5ueEDRJ_gs3g5qQMDccHOe-8d6ImdF6LppV_-c987i-95HIpmPQIObhZ9bePU5UJ_q1VXf2zVQLV9D2lK4amTRkOcBJhkiwUO0lpozamLL-7UTdmNleOtwqov4ZTQVzpZ02KyE/s96/9anmie.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1AxNCe_-hvmp8SohndLNArWXYPB70QEhEvwhkssirjeqvdB6-B9CMZ5ueEDRJ_gs3g5qQMDccHOe-8d6ImdF6LppV_-c987i-95HIpmPQIObhZ9bePU5UJ_q1VXf2zVQLV9D2lK4amTRkOcBJhkiwUO0lpozamLL-7UTdmNleOtwqov4ZTQVzpZ02KyE/s144/9anmie.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1AxNCe_-hvmp8SohndLNArWXYPB70QEhEvwhkssirjeqvdB6-B9CMZ5ueEDRJ_gs3g5qQMDccHOe-8d6ImdF6LppV_-c987i-95HIpmPQIObhZ9bePU5UJ_q1VXf2zVQLV9D2lK4amTRkOcBJhkiwUO0lpozamLL-7UTdmNleOtwqov4ZTQVzpZ02KyE/s168/9anmie.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1AxNCe_-hvmp8SohndLNArWXYPB70QEhEvwhkssirjeqvdB6-B9CMZ5ueEDRJ_gs3g5qQMDccHOe-8d6ImdF6LppV_-c987i-95HIpmPQIObhZ9bePU5UJ_q1VXf2zVQLV9D2lK4amTRkOcBJhkiwUO0lpozamLL-7UTdmNleOtwqov4ZTQVzpZ02KyE/s192/9anmie.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1AxNCe_-hvmp8SohndLNArWXYPB70QEhEvwhkssirjeqvdB6-B9CMZ5ueEDRJ_gs3g5qQMDccHOe-8d6ImdF6LppV_-c987i-95HIpmPQIObhZ9bePU5UJ_q1VXf2zVQLV9D2lK4amTRkOcBJhkiwUO0lpozamLL-7UTdmNleOtwqov4ZTQVzpZ02KyE/s512/9anmie.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
